@@ -1,16 +1,25 @@
-## Hi there 👋
+🚀 Sagar Dhok | Python Developer
+💡 BCA Student | Backend & AI Enthusiast
 
-<!--
-**SagarDhok/SagarDhok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Skills:
+🔹 Languages: Python, JavaScript
+🔹 Backend: FastAPI, Flask, Django
+🔹 Frontend: HTML5, CSS3, Basic JavaScript
+🔹 Databases: PostgreSQL, MySQL, MongoDB
+🔹 Tools: Git, GitHub, Postman, VS Code
 
-Here are some ideas to get you started:
+🌱 Currently Learning:
+🔹 Machine Learning (Andrew Ng - Coursera)
+🔹 Data Structures & Algorithms (Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Experience & Projects:
+🚀 API Development Internship – Built robust REST APIs with FastAPI & PostgreSQL
+🍽️ Full-Stack Recipe App – A sleek web app for managing and sharing recipes
+🤖 AI & ML Projects – Experimenting with NumPy, Pandas, Scikit-Learn
+
+📬 Let’s Connect & Build Something Amazing!
+🔗 GitHub | LinkedIn
+📩 sdhok041@gmail.com
+
+🔥 Passionate about clean code, scalable systems, and AI-powered innovation!
+
