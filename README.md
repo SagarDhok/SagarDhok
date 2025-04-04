@@ -13,7 +13,7 @@
 - **AI & ML Projects** – Experimenting with NumPy, Pandas, and Scikit-Learn  
 
 ## 📫 Connect with Me:
-🔗 [LinkedIn](www.linkedin.com/in/sagardhok)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sagardhok/)  
 📩 sdhok041@gmail.com  
 
 ⭐ **Let’s build something amazing together!** 🚀  
