@@ -6,7 +6,7 @@
 #### 🔹 Backend: FastAPI, Flask, Django  
 #### 🔹 Frontend: HTML5, CSS3, Basic JavaScript  
 #### 🔹 Databases: PostgreSQL, MySQL, MongoDB  
-#### 🔹 Tools: Git, GitHub, Postman, VS Code  
+#### 🔹 Tools: Git, GitHub, VS Code  
 
 ## 💼 Work & Projects:
 - **API Development Internship** – Built REST APIs using FastAPI & PostgreSQL  
