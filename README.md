@@ -1,11 +1,11 @@
-# 🚀 Sagar Dhok | Python Developer  
-💡 **BCA Student | Backend & AI Enthusiast**  
+# 🚀 Sagar Dhok | Full Stack Python Developer  
+
 
 ## 🛠 Skills:
 #### 🔹 Languages: Python, JavaScript  
 #### 🔹 Backend: FastAPI, Flask, Django  
 #### 🔹 Frontend: HTML5, CSS3, Basic JavaScript  
-#### 🔹 Databases: PostgreSQL, MySQL, MongoDB  
+#### 🔹 Databases: Oracle, MySQL, MongoDB  
 #### 🔹 Tools: Git, GitHub, VS Code  
 
 ## 💼 Work & Projects:
