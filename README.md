@@ -9,8 +9,8 @@
 #### 🔹 Tools: Git, GitHub, VS Code  
 
 ## 💼 Work & Projects:
-- **API Development Internship** – Built REST APIs using FastAPI & PostgreSQL  
-- **AI & ML Projects** – Experimenting with NumPy, Pandas, and Scikit-Learn  
+- **API Development Internship** – Built REST APIs using FastAPI
+- **AI & ML Projects** – Experimenting with NumPy, Pandas,Matplotlib, and Scikit-Learn  
 
 ## 📫 Connect with Me:
 🔗 [LinkedIn](https://www.linkedin.com/in/sagardhok/)  
