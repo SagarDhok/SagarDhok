@@ -1,5 +1,8 @@
 # 🚀 Sagar Dhok | Full Stack Python Developer  
 
+#### Profile Summary : 
+Python Developer skilled in backend frameworks and databases, eager to build scalable apps and grow with a forward-thinking team.
+
 
 ## 🛠 Skills:
 #### 🔹 Languages: Python, JavaScript  
@@ -7,14 +10,12 @@
 #### 🔹 Frontend: HTML5, CSS3, Basic JavaScript  
 #### 🔹 Databases: Oracle, MySQL, MongoDB  
 #### 🔹 Tools: Git, GitHub, VS Code  
-
-## 💼 Work & Projects:
-- **API Development Internship** – Built REST APIs using FastAPI
-- **AI & ML Projects** – Experimenting with NumPy, Pandas,Matplotlib, and Scikit-Learn  
+#### 🔹  Libraries: NumPy, Pandas,Matplotlib
 
 ## 📫 Connect with Me:
-🔗 [LinkedIn](https://www.linkedin.com/in/sagardhok/)  
-📩 [Email](sdhok041@gmail.com)  
- 
+🔗 LinkedIn: linkedin.com/in/sagardhok
+📩 Email: sdhok041@gmail.com
+
+
 
 
