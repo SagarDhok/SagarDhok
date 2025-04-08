@@ -13,8 +13,8 @@ Python Developer skilled in backend frameworks and databases, eager to build sca
 #### 🔹  Libraries: NumPy, Pandas,Matplotlib
 
 ## 📫 Connect with Me:
-🔗 LinkedIn: linkedin.com/in/sagardhok
-📩 Email: sdhok041@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/sagardhok/)  
+📩 [Email](sdhok041@gmail.com)  
 
 
 
