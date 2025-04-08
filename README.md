@@ -4,13 +4,12 @@
 Python Developer skilled in backend frameworks and databases, eager to build scalable apps and grow with a forward-thinking team.
 
 
-## 🛠 Skills:
-#### 🔹 Languages: Python, JavaScript  
-#### 🔹 Backend: FastAPI, Flask, Django  
-#### 🔹 Frontend: HTML5, CSS3, Basic JavaScript  
-#### 🔹 Databases: Oracle, MySQL, MongoDB  
-#### 🔹 Tools: Git, GitHub, VS Code  
-#### 🔹  Libraries: NumPy, Pandas,Matplotlib
+**🔹 Languages:** Python, JavaScript  
+**🔹 Backend:** FastAPI, Flask, Django  
+**🔹 Frontend:** HTML5, CSS3, Basic JavaScript  
+**🔹 Databases:** Oracle, MySQL, MongoDB  
+**🔹 Tools:** Git, GitHub, VS Code  
+**🔹 Libraries:** NumPy, Pandas, Matplotlib
 
 ## 📫 Connect with Me:
 🔗 [LinkedIn](https://www.linkedin.com/in/sagardhok/)  
