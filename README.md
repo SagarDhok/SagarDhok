@@ -11,9 +11,9 @@ Python Developer skilled in backend frameworks and databases, eager to build sca
 
 🔹 **Frontend:** HTML5, CSS3, JavaScript
 
-🔹 **Databases:** PostgreSQL, MySQL, MongoDB
+🔹 **Databases:** MySQL, MongoDB,Oracle
 
-🔹 **Tools:** Git, GitHub, VS Code
+🔹 **Tools:** Git, GitHub, VS Code,Pycharm,Jupyter Notebook
 
 
 
