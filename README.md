@@ -1,4 +1,4 @@
-# 🚀 Sagar Dhok | Full Stack Python Developer  
+# Sagar Dhok | Full Stack Python Developer  
 
 #### Profile Summary : 
 🔧 Full Stack Python Developer | FastAPI, Django, MySQL, MongoDB – building scalable and efficient web applications.           
