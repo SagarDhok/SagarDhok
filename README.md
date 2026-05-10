@@ -56,12 +56,27 @@ Tech Used: Python, Django, DRF, REST APIs, TMDB API, MySQL, PostgreSQL
 
 # Connect With Me
 
+
+
 <div align="center">
 
-<a href="https://twitter.com/SagarDh0k">Twitter</a> • 
-<a href="https://github.com/SagarDh0k">GitHub</a> • 
-<a href="https://linkedin.com">LinkedIn</a> • 
-<a href="mailto:sdhok041@gmail.com">Gmail</a>
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/SagarDh0k">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://github.com/SagarDh0k">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+
+
+<a href="mailto:sdhok041@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
