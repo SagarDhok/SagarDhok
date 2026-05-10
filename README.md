@@ -4,26 +4,17 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Backend+Developer+with+Python+%F0%9F%90%8D;Building+Scalable+Django+Applications+%F0%9F%9A%80;REST+API+%26+RBAC+Focused+%F0%9F%94%90;Learning+Production-Grade+Backend+Systems+%F0%9F%92%BB;Open+to+Backend+Developer+Roles+%F0%9F%94%A5" />
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SagarDh0k&color=0e75b6&style=for-the-badge&label=Profile+Views)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Backend+Developer+with+Python;Building+Scalable+Django+Applications;REST+API+and+RBAC+Focused;Learning+Production-Grade+Backend+Systems;Open+to+Backend+Developer+Roles" />
 
 </div>
 
 ---
 
-# Hi, I'm Sagar Dhok
+# Sagar Dhok
 
 Backend-focused Python developer with hands-on experience building scalable backend systems using Django and Django REST Framework.
 
-- Backend Development with Python & Django
-- REST API Development
-- Authentication & RBAC Systems
-- ORM Query Optimization
-- Database Design
-- API Testing & Deployment
+Python Developer | Django Backend Developer | REST API Developer
 
 ---
 
@@ -33,7 +24,8 @@ Backend-focused Python developer with hands-on experience building scalable back
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -48,42 +40,17 @@ Backend-focused Python developer with hands-on experience building scalable back
 
 ## Smart ATS — Application Tracking System
 
-- Built secure REST APIs using Django REST Framework
-- Implemented Role-Based Access Control (RBAC)
-- Added invite-only onboarding and password reset flows using expiring tokens
-- Developed weighted resume scoring engine
-- Added duplicate prevention and soft-delete support
-- Wrote unit and integration tests for critical workflows
+Built secure REST APIs using Django REST Framework with Role-Based Access Control, invite-only onboarding, token expiry flows, resume scoring engine, duplicate prevention, and structured backend testing.
 
-### Tech Used
-Python • Django • DRF • REST APIs • MySQL • PostgreSQL
+Tech Used: Python, Django, DRF, REST APIs, MySQL, PostgreSQL
 
 ---
 
 ## Movie Opinion Meter — Review & Rating Platform
 
-- Built normalized relational database models
-- Solved N+1 query problems using `select_related` and `prefetch_related`
-- Integrated TMDB APIs for movie data synchronization
-- Added AI-generated movie reviews using LLM APIs
-- Wrote API and authentication tests for backend reliability
+Built a movie review platform with optimized database queries, TMDB API integration, AI-generated reviews using LLM APIs, authentication systems, and backend testing.
 
-### Tech Used
-Python • Django • DRF • REST APIs • TMDB API • MySQL • PostgreSQL
-
----
-
-# GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=SagarDh0k&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=SagarDh0k&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarDh0k&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
+Tech Used: Python, Django, DRF, REST APIs, TMDB API, MySQL, PostgreSQL
 
 ---
 
@@ -91,13 +58,10 @@ Python • Django • DRF • REST APIs • TMDB API • MySQL • PostgreSQL
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SagarDh0k)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagarDh0k)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdhok041@gmail.com)
+<a href="https://twitter.com/SagarDh0k">Twitter</a> • 
+<a href="https://github.com/SagarDh0k">GitHub</a> • 
+<a href="https://linkedin.com">LinkedIn</a> • 
+<a href="mailto:sdhok041@gmail.com">Gmail</a>
 
 </div>
 
