@@ -1,18 +1,103 @@
 <div align="center">
 
-<!-- Capsule Render Header - very reliable -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:7c3aed,100:c026d3&height=220&section=header&text=Isha%20Singh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20AI%20Enthusiast%20%E2%9C%A6%20Builder&descAlignY=58&descAlign=50&descSize=18&descColor=e9d5ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Sagar%20Dhok&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20✦%20Django%20✦%20REST%20APIs&descAlignY=58&descAlign=50&descSize=18&descColor=cbd5e1" />
 
 <br/>
 
-<!-- Typing Animation - herokuapp version -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=620&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer+in+Progress+%F0%9F%92%BB;Exploring+AI+%26+LLMs+%F0%9F%A4%96;Building+Real-Time+Systems+%E2%9A%A1;Microservices+%26+Blockchain+Learner+%F0%9F%94%97;RAG+%7C+MCP+%7C+GenAI+Explorer+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Backend+Developer+with+Python+%F0%9F%90%8D;Building+Scalable+Django+Applications+%F0%9F%9A%80;REST+API+%26+RBAC+Focused+%F0%9F%94%90;Learning+Production-Grade+Backend+Systems+%F0%9F%92%BB;Open+to+Backend+Developer+Roles+%F0%9F%94%A5" />
 
 <br/><br/>
 
-<!-- Profile Views - komarev is very reliable -->
-![Profile Views](https://komarev.com/ghpvc/?username=IshaCodes04&color=a855f7&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/IshaCodes04?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/IshaCodes04)
+![Profile Views](https://komarev.com/ghpvc/?username=SagarDh0k&color=0e75b6&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+---
+
+# Hi, I'm Sagar Dhok
+
+Backend-focused Python developer with hands-on experience building scalable backend systems using Django and Django REST Framework.
+
+- Backend Development with Python & Django
+- REST API Development
+- Authentication & RBAC Systems
+- ORM Query Optimization
+- Database Design
+- API Testing & Deployment
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
+
+---
+
+# Projects
+
+## Smart ATS — Application Tracking System
+
+- Built secure REST APIs using Django REST Framework
+- Implemented Role-Based Access Control (RBAC)
+- Added invite-only onboarding and password reset flows using expiring tokens
+- Developed weighted resume scoring engine
+- Added duplicate prevention and soft-delete support
+- Wrote unit and integration tests for critical workflows
+
+### Tech Used
+Python • Django • DRF • REST APIs • MySQL • PostgreSQL
+
+---
+
+## Movie Opinion Meter — Review & Rating Platform
+
+- Built normalized relational database models
+- Solved N+1 query problems using `select_related` and `prefetch_related`
+- Integrated TMDB APIs for movie data synchronization
+- Added AI-generated movie reviews using LLM APIs
+- Wrote API and authentication tests for backend reliability
+
+### Tech Used
+Python • Django • DRF • REST APIs • TMDB API • MySQL • PostgreSQL
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=SagarDh0k&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SagarDh0k&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarDh0k&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SagarDh0k)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagarDh0k)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdhok041@gmail.com)
 
 </div>
 
@@ -20,126 +105,6 @@
 
 <div align="center">
 
-## 👋 Hi, I'm Isha Singh!
-
-</div>
-
-> 💜 *"Code is poetry written in logic — and I'm just getting started."*
-
-🎓 **Second Year BCA Student** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **AI & Real-Time Systems Enthusiast**
-
----
-
-<div align="center">
-
-## 🧠 Currently Learning & Exploring
-
-<br/>
-
-<!-- shields.io badges - 100% reliable -->
-![Full-Stack](https://img.shields.io/badge/Full--Stack%20Dev-Learning-7c3aed?style=for-the-badge&labelColor=1a1a2e)
-![DSA Java](https://img.shields.io/badge/DSA%20with%20Java-Practicing-7c3aed?style=for-the-badge&labelColor=1a1a2e)
-![Microservices](https://img.shields.io/badge/Microservices-Exploring-a855f7?style=for-the-badge&labelColor=1a1a2e)
-![DevOps](https://img.shields.io/badge/DevOps%20%26%20Docker-Learning-a855f7?style=for-the-badge&labelColor=1a1a2e)
-![Blockchain](https://img.shields.io/badge/Blockchain-Fundamentals-c026d3?style=for-the-badge&labelColor=1a1a2e)
-![GenAI](https://img.shields.io/badge/GenAI%20%26%20LLMs-Exploring-c026d3?style=for-the-badge&labelColor=1a1a2e)
-![RAG](https://img.shields.io/badge/RAG-Learning-e879f9?style=for-the-badge&labelColor=1a1a2e)
-![MCP](https://img.shields.io/badge/MCP%20Servers-Exploring-e879f9?style=for-the-badge&labelColor=1a1a2e)
-![SocketIO](https://img.shields.io/badge/Real--Time%20Socket.IO-Building-7c3aed?style=for-the-badge&labelColor=1a1a2e)
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Tech Stack & Tools
-
-<br/>
-
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api?username=IshaCodes04&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=IshaCodes04&theme=aura&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshaCodes04&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-<div align="center">
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-<br/>
-
-<!-- activity graph - vercel hosted, reliable -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshaCodes04&bg_color=0d1117&color=c084fc&line=7c3aed&point=e9d5ff&area=true&area_color=7c3aed&hide_border=true&radius=8" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<br/>
-
-<!-- Snake - will work after workflow runs successfully -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaCodes04/IshaCodes04/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshaCodes04/IshaCodes04/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/IshaCodes04/IshaCodes04/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Let's Connect!
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isha-singh)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/isha_singh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23c026d3.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ishasingh.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isha@gmail.com)
-
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=IshaCodes04&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a1d96,100:7c3aed&height=130&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=20&fontColor=e9d5ff&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=120&section=footer&text=Keep+Building&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
 
 </div>
