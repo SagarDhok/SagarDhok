@@ -1,34 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Sagar%20Dhok&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20✦%20Django%20✦%20REST%20APIs&descAlignY=58&descAlign=50&descSize=18&descColor=cbd5e1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,50:1e293b,75:334155,100:475569&height=280&section=header&text=Sagar%20Dhok&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Backend%20Developer%20%7C%20Django%20%7C%20DRF%20%7C%20REST%20APIs&descAlignY=58&descSize=22&descColor=e2e8f0" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Backend+Developer+with+Python;Building+Scalable+Django+Applications;REST+API+and+RBAC+Focused;Learning+Production-Grade+Backend+Systems;Open+to+Backend+Developer+Roles" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-334155?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Django+and+REST+API+Developer;Focused+on+RBAC+and+Authentication;ORM+Optimization+and+Backend+Architecture;Open+to+Python+Backend+Roles" />
+
+---
 
 </div>
 
 ---
 
-# Sagar Dhok
+<h1 align="center">About Me</h1>
 
-Backend-focused Python developer with hands-on experience building scalable backend systems using Django and Django REST Framework.
+<p align="center">
+Backend-focused Python developer with hands-on experience building scalable applications using Django and Django REST Framework.
+</p>
 
-Python Developer | Django Backend Developer | REST API Developer
+<p align="center">
+Strong foundation in REST APIs, authentication systems, RBAC, ORM optimization, relational database design, and backend testing.
+</p>
 
 ---
 
-# Tech Stack
-
 <div align="center">
+
+## Tech Stack
+
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white)
 
@@ -36,54 +51,97 @@ Python Developer | Django Backend Developer | REST API Developer
 
 ---
 
-# Projects
-
-## Smart ATS — Application Tracking System
-
-Built secure REST APIs using Django REST Framework with Role-Based Access Control, invite-only onboarding, token expiry flows, resume scoring engine, duplicate prevention, and structured backend testing.
-
-Tech Used: Python, Django, DRF, REST APIs, MySQL, PostgreSQL
-
----
-
-## Movie Opinion Meter — Review & Rating Platform
-
-Built a movie review platform with optimized database queries, TMDB API integration, AI-generated reviews using LLM APIs, authentication systems, and backend testing.
-
-Tech Used: Python, Django, DRF, REST APIs, TMDB API, MySQL, PostgreSQL
-
----
-
-# Connect With Me
-
-
+<h1 align="center">Projects</h1>
 
 <div align="center">
 
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://twitter.com/SagarDh0k">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
+## Smart ATS
 
-<a href="https://github.com/SagarDh0k">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Backend recruitment platform with:
 
+- Role-Based Access Control
+- Invite-only onboarding system
+- Expiring token authentication
+- Resume scoring engine
+- Duplicate application prevention
+- Structured backend testing
 
+### Tech
 
-<a href="mailto:sdhok041@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+Python • Django • DRF • REST APIs • MySQL • PostgreSQL
+
+</td>
+
+<td width="50%" valign="top">
+
+## Movie Opinion Meter
+
+Movie review platform with:
+
+- TMDB API integration
+- ORM query optimization
+- AI-generated movie reviews
+- Authentication systems
+- API testing and validation
+- Relational database modeling
+
+### Tech
+
+Python • Django • DRF • REST APIs • TMDB API • PostgreSQL
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+<h1 align="center">Core Backend Skills</h1>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=120&section=footer&text=Keep+Building&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+<img src="https://img.shields.io/badge/REST%20API%20Development-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RBAC%20Systems-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authentication%20Flows-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ORM%20Optimization-475569?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Architecture-64748b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Testing-0f172a?style=for-the-badge"/>
+
+</div>
+
+---
+
+<h1 align="center">Connect With Me</h1>
+
+<div align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/SagarDh0k">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SagarDh0k">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:sdhok041@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,50:1e293b,75:334155,100:475569&height=150&section=footer&text=Keep%20Building&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
 
 </div>
