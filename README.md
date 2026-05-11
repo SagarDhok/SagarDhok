@@ -145,3 +145,4 @@ Python • Django • DRF • REST APIs • TMDB API • PostgreSQL
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,50:1e293b,75:334155,100:475569&height=150&section=footer&text=Keep%20Building&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
 
 </div>
+
